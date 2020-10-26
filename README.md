@@ -1,6 +1,8 @@
 # NYC Citibike Analysis
 Analysis on bikeshare data using Tableau visualizations
 
+Link to Tableau Information: [https://public.tableau.com/profile/alexandra.valentine#!/vizhome/Challenge13_CitibikeData/NYCCitibikeAnalysisStory?publish=yes](LINK GOES HERE "link to dashboard")
+
 ## Overview of the Citibike Analysis
 The purpose of this analysis is to use Python and Tableau to create dynamic visualizations using Tableau. This analysis uses Citibike data from New York City riders for the month of August 2018. This data is fed into Tableau and made into various line charts and heat maps. 
 
